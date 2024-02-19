@@ -1,0 +1,74 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 161.5,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 616,
+            "y": 0
+          },
+          "nodeIndex": "clients",
+          "nodeLineageTag": "96c8e973-a72c-4f2b-82d9-b83afee244b2",
+          "size": {
+            "height": 257,
+            "width": 235
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 18,
+            "y": 0
+          },
+          "nodeIndex": "actions",
+          "nodeLineageTag": "f8cb37f7-92c7-4792-a2a2-ef86a4159898",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 317,
+            "y": 0
+          },
+          "nodeIndex": "datum",
+          "nodeLineageTag": "e913a413-771d-4ddc-a848-30b494a36893",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 304,
+            "y": 372
+          },
+          "nodeIndex": "transaction",
+          "nodeLineageTag": "178a6e9a-5cc7-4895-a706-a391a50c3f79",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
